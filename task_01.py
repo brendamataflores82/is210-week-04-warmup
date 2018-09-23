@@ -8,3 +8,4 @@ def know_what_i_mean(wink, numwink=2):
     nudges = ('nudge ' * numwink).strip()
     retstr = 'Know what I mean? {}, {}'.format(winks, nudges)
     return retstr
+"print wink"
